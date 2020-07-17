@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```javascript
+const Marisol = {
+  pronouns: "she" | "her",
+  currentJob: "Frontend Developer at PODER - Project on Organizing, Development, Education and Research",
+  myWebsite: "https://marisolenlaweb.com/",
+  askMeAbout: [
+    "design", "web development", "digital marketing"
+  ],
+  technologies: {
+    frontEnd: {
+      js: [],
+      css: ["materialize", "bootstrap"]
+    },
+  tools: [],
+  techCommunities: {
+      organizer: "Webflow Mexico"
+    }
+}
+```
