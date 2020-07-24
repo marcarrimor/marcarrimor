@@ -24,8 +24,8 @@ const Marisol = {
 
 - 📫 How to reach me:
 
-| [<img src="https://github.com/MarisolenlaWeb/marisolenlaweb/blob/master/assets/facebook%20(1).png" alt="Facebook logo">]( https://www.facebook.com/marisolenlaweb) | [<img src="https://github.com/MarisolenlaWeb/marisolenlaweb/blob/master/assets/instagram%20(1).png" alt="instagram logo">](https://www.instagram.com/marisolenelmundo/)| [<img src="https://github.com/MarisolenlaWeb/marisolenlaweb/blob/master/assets/github.png" alt="Github logo" width="34">](https://github.com/MarisolenlaWeb) | [<img src="https://github.com/MarisolenlaWeb/marisolenlaweb/blob/master/assets/likedin%20(1).png" alt="Linkedin Logo">](https://www.linkedin.com/in/marisolcarrillom)
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| [<img src="https://github.com/MarisolenlaWeb/marisolenlaweb/blob/master/assets/facebook%20(1).png" alt="Facebook logo">]( https://www.facebook.com/marisolenlaweb) | [<img src="https://github.com/MarisolenlaWeb/marisolenlaweb/blob/master/assets/instagram%20(1).png" alt="instagram logo">](https://www.instagram.com/marisolenelmundo/) | [<img src="https://github.com/MarisolenlaWeb/marisolenlaweb/blob/master/assets/github.png" alt="Github logo" width="34">](https://github.com/MarisolenlaWeb) | [<img src="https://github.com/MarisolenlaWeb/marisolenlaweb/blob/master/assets/likedin%20(1).png" alt="Linkedin Logo">](https://www.linkedin.com/in/marisolcarrillom)
+|:---:|:---:|:---:|:---:|
 
 
 
