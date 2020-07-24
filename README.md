@@ -21,6 +21,7 @@ const Marisol = {
     }
 }
 ```
+<img src="https://github.com/MarisolenlaWeb/marisolenlaweb/blob/master/assets/working.gif" alt="Working gif" style="float: right">
 
 - 📫 How to reach me:
 
