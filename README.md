@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://github.com/MarisolenlaWeb/marisolenlaweb/blob/master/assets/Hi.gif">
 
 <!--
 **MarisolenlaWeb/marisolenlaweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,9 +23,11 @@ const Marisol = {
 ```
 <img align="right" src="https://github.com/MarisolenlaWeb/marisolenlaweb/blob/master/assets/working.gif" alt="Working gif">
 
-- 📫 How to reach me:
+<div align="left">
+<img src="https://github.com/MarisolenlaWeb/marisolenlaweb/blob/master/assets/contact.gif" width="20px"> How to reach me:
 
 | [<img src="https://github.com/MarisolenlaWeb/marisolenlaweb/blob/master/assets/facebook%20(1).png" alt="Facebook logo">]( https://www.facebook.com/marisolenlaweb) | [<img src="https://github.com/MarisolenlaWeb/marisolenlaweb/blob/master/assets/instagram%20(1).png" alt="instagram logo">](https://www.instagram.com/marisolenelmundo/) | [<img src="https://github.com/MarisolenlaWeb/marisolenlaweb/blob/master/assets/github.png" alt="Github logo">](https://github.com/MarisolenlaWeb) | [<img src="https://github.com/MarisolenlaWeb/marisolenlaweb/blob/master/assets/likedin%20(1).png" alt="Linkedin Logo">](https://www.linkedin.com/in/marisolcarrillom)
 |:---:|:---:|:---:|:---:|
+</div>
 
 
