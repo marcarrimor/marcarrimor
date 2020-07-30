@@ -14,7 +14,8 @@ const Marisol = {
     "design", "web development", "digital marketing", "books", "Harry Potter"
   ],
   myTechStack: [
-    "HTML5", "CSS3", "Javascript", "Git", "Bootstrap", "SemanticUI", "Stylus", "Express", "Wordpress", "Webflow", "Photoshop", "Illustrator", "Sketch" 
+    "HTML5", "CSS3", "Javascript", "Git", "Bootstrap", "SemanticUI", "Stylus", "Express", 
+    "Wordpress", "Webflow", "Photoshop", "Illustrator", "Sketch" 
   ],
   techCommunities: {
       organizer: "Webflow Mexico"
@@ -22,14 +23,15 @@ const Marisol = {
 }
 ```
 
-<!--
-<img src="https://github.com/MarisolenlaWeb/marisolenlaweb/blob/master/assets/working.gif" alt="Working gif">
--->
-
 ### How to reach me: <img src="https://github.com/MarisolenlaWeb/marisolenlaweb/blob/master/assets/message.gif" width="30px">
 
 | [<img src="https://github.com/MarisolenlaWeb/marisolenlaweb/blob/master/assets/facebook%20(1).png" alt="Facebook logo">]( https://www.facebook.com/marisolenlaweb) | [<img src="https://github.com/MarisolenlaWeb/marisolenlaweb/blob/master/assets/instagram%20(1).png" alt="instagram logo">](https://www.instagram.com/marisolenelmundo/) | [<img src="https://github.com/MarisolenlaWeb/marisolenlaweb/blob/master/assets/github.png" alt="Github logo">](https://github.com/MarisolenlaWeb) | [<img src="https://github.com/MarisolenlaWeb/marisolenlaweb/blob/master/assets/likedin%20(1).png" alt="Linkedin Logo">](https://www.linkedin.com/in/marisolcarrillom)
 |:---:|:---:|:---:|:---:|
+
+
+### I am always:
+
+<img align='center' src="https://github.com/MarisolenlaWeb/marisolenlaweb/blob/master/assets/working.gif" alt="Working gif">
 
 
 
