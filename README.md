@@ -29,7 +29,8 @@ const Marisol = {
 |:---:|:---:|:---:|:---:|
 
 
-### I am always:
+
+### This is me all the time 
 
 <img align='center' src="https://github.com/MarisolenlaWeb/marisolenlaweb/blob/master/assets/working.gif" alt="Working gif">
 
