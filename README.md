@@ -1,15 +1,15 @@
-<img align='right' width="25%" src="https://github.com/MarisolenlaWeb/marisolenlaweb/blob/master/assets/working.gif" alt="Working gif">
+<img align='right' width="30%" src="https://github.com/MarisolenlaWeb/marisolenlaweb/blob/master/assets/working.gif" alt="Working gif">
 
 ### Hi!, I am Marisol <img src="https://github.com/MarisolenlaWeb/marisolenlaweb/blob/master/assets/Hi.gif" width="29px">
 
-Frontend Developer at PODER (Project on Organizing, Development, Education and Research)
+*Frontend Developer at [PODER (Project on Organizing, Development, Education and Research)](https://www.projectpoder.org/es/)*
 
 ### How to reach me: <img src="https://github.com/MarisolenlaWeb/marisolenlaweb/blob/master/assets/message.gif" width="30px">
 
-[<img width="40px" src="https://github.com/MarisolenlaWeb/marisolenlaweb/blob/master/assets/facebook%20(1).png" alt="Facebook logo">]( https://www.facebook.com/marisolenlaweb) 
-[<img width="40px" src="https://github.com/MarisolenlaWeb/marisolenlaweb/blob/master/assets/instagram%20(1).png" alt="instagram logo">](https://www.instagram.com/marisolenelmundo/)
-[<img width="40px" src="https://github.com/MarisolenlaWeb/marisolenlaweb/blob/master/assets/github.png" alt="Github logo">](https://github.com/MarisolenlaWeb)
-[<img width="40px" src="https://github.com/MarisolenlaWeb/marisolenlaweb/blob/master/assets/likedin%20(1).png" alt="Linkedin Logo">](https://www.linkedin.com/in/marisolcarrillom)
+[<img width="40px" style="padding:20px" src="https://github.com/MarisolenlaWeb/marisolenlaweb/blob/master/assets/facebook%20(1).png" alt="Facebook logo">]( https://www.facebook.com/marisolenlaweb) 
+[<img width="40px" style="padding-right:20px" src="https://github.com/MarisolenlaWeb/marisolenlaweb/blob/master/assets/instagram%20(1).png" alt="instagram logo">](https://www.instagram.com/marisolenelmundo/)
+[<img width="40px" style="padding-right:20px" src="https://github.com/MarisolenlaWeb/marisolenlaweb/blob/master/assets/github.png" alt="Github logo">](https://github.com/MarisolenlaWeb)
+[<img width="40px" style="padding-right:20px" src="https://github.com/MarisolenlaWeb/marisolenlaweb/blob/master/assets/likedin%20(1).png" alt="Linkedin Logo">](https://www.linkedin.com/in/marisolcarrillom)
 
 
 
