@@ -21,7 +21,7 @@ const Marisol = {
   pronouns: "she" | "her",
   myWebsite: "https://marisolenlaweb.com/",
   askMeAbout: [
-    "design", "web development", "digital marketing", "books", "Harry Potter"
+    "design", "web development", "digital marketing", "books", "Harry Potter", "k-dramas"
   ],
   myTechStack: [
     "HTML5", "CSS3", "Javascript", "Git", "Bootstrap", "SemanticUI", "Stylus", "Express", 
