@@ -7,7 +7,7 @@
 ### How to reach me: <img src="https://github.com/MarisolenlaWeb/marisolenlaweb/blob/master/assets/message.gif" width="30px">
 
 [<img width="40px" src="https://github.com/MarisolenlaWeb/marisolenlaweb/blob/master/assets/facebook%20(1).png" alt="Facebook logo">]( https://www.facebook.com/marisolenlaweb) 
-[<img width="40px" src="https://github.com/MarisolenlaWeb/marisolenlaweb/blob/master/assets/instagram%20(1).png" alt="instagram logo">](https://www.instagram.com/marisolenelmundo/)
+[<img width="40px" src="https://github.com/MarisolenlaWeb/marisolenlaweb/blob/master/assets/instagram%20(1).png" alt="instagram logo">](https://www.instagram.com/ladevelopnerd/)
 [<img width="40px" src="https://github.com/MarisolenlaWeb/marisolenlaweb/blob/master/assets/github.png" alt="Github logo">](https://github.com/MarisolenlaWeb)
 [<img width="40px" src="https://github.com/MarisolenlaWeb/marisolenlaweb/blob/master/assets/likedin%20(1).png" alt="Linkedin Logo">](https://www.linkedin.com/in/marisolcarrillom)
 
@@ -19,13 +19,13 @@
 ```javascript
 const Marisol = {
   pronouns: "she" | "her",
-  myWebsite: "https://marisolenlaweb.com/",
+  myWebsite: "https://marisol.dev/",
   askMeAbout: [
     "design", "web development", "digital marketing", "books", "Harry Potter", "k-dramas"
   ],
   myTechStack: [
     "HTML5", "CSS3", "Javascript", "Git", "Bootstrap", "SemanticUI", "Stylus", "Express", 
-    "Wordpress", "Webflow", "Photoshop", "Illustrator", "Sketch" 
+    "Wordpress", "Webflow", "Photoshop", "Illustrator", "Sketch", "Figma" 
   ],
   techCommunities: {
       organizer: "Webflow Mexico"
@@ -36,7 +36,7 @@ const Marisol = {
 <!--
 ### How to reach me: <img src="https://github.com/MarisolenlaWeb/marisolenlaweb/blob/master/assets/message.gif" width="30px">
 
-| [<img src="https://github.com/MarisolenlaWeb/marisolenlaweb/blob/master/assets/facebook%20(1).png" alt="Facebook logo">]( https://www.facebook.com/marisolenlaweb) | [<img src="https://github.com/MarisolenlaWeb/marisolenlaweb/blob/master/assets/instagram%20(1).png" alt="instagram logo">](https://www.instagram.com/marisolenelmundo/) | [<img src="https://github.com/MarisolenlaWeb/marisolenlaweb/blob/master/assets/github.png" alt="Github logo">](https://github.com/MarisolenlaWeb) | [<img src="https://github.com/MarisolenlaWeb/marisolenlaweb/blob/master/assets/likedin%20(1).png" alt="Linkedin Logo">](https://www.linkedin.com/in/marisolcarrillom)
+| [<img src="https://github.com/MarisolenlaWeb/marisolenlaweb/blob/master/assets/facebook%20(1).png" alt="Facebook logo">]( https://www.facebook.com/marisolenlaweb) | [<img src="https://github.com/MarisolenlaWeb/marisolenlaweb/blob/master/assets/instagram%20(1).png" alt="instagram logo">](https://www.instagram.com/ladevelopnerd/) | [<img src="https://github.com/MarisolenlaWeb/marisolenlaweb/blob/master/assets/github.png" alt="Github logo">](https://github.com/MarisolenlaWeb) | [<img src="https://github.com/MarisolenlaWeb/marisolenlaweb/blob/master/assets/likedin%20(1).png" alt="Linkedin Logo">](https://www.linkedin.com/in/marisolcarrillom)
 |:---:|:---:|:---:|:---:|
 -->
 
