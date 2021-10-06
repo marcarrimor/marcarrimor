@@ -33,8 +33,9 @@ const Marisol = {
 }
 ```
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=marisolenlaweb&show_icons=true&count_private=true" width="400" height="auto"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marisolenlaweb&layout=compact/" width="208" height="auto"/>
+
+![Marisol's GitHub stats](https://github-readme-stats.vercel.app/api?username=marisolenlaweb&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marisolenlaweb&layout=compact)](https://github.com/marisolenlaweb/github-readme-stats)
 
 
 <!--
