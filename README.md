@@ -33,6 +33,7 @@ const Marisol = {
 }
 ```
 
+[![Marisol's GitHub stats](https://github-readme-stats.vercel.app/api?username=marisolenlaweb)](https://github.com/marisolenlaweb/github-readme-stats)
 <!--
 ### How to reach me: <img src="https://github.com/MarisolenlaWeb/marisolenlaweb/blob/master/assets/message.gif" width="30px">
 
