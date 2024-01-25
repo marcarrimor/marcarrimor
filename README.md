@@ -34,14 +34,14 @@ const Marisol = {
 ```
 <br>
 
-![Marisol's GitHub stats](https://github-readme-stats.vercel.app/api?username=marisolenlaweb&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marisolenlaweb&layout=compact)](https://github.com/marisolenlaweb/github-readme-stats)
+![Marisol's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcarrimor&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcarrimor&layout=compact)](https://github.com/marcarrimor/github-readme-stats)
 
 
 <!--
-### How to reach me: <img src="https://github.com/MarisolenlaWeb/marisolenlaweb/blob/master/assets/message.gif" width="30px">
+### How to reach me: <img src="https://github.com/marcarrimor/marcarrimor/blob/master/assets/message.gif" width="30px">
 
-| [<img src="https://github.com/MarisolenlaWeb/marisolenlaweb/blob/master/assets/facebook%20(1).png" alt="Facebook logo">]( https://www.facebook.com/marisolenlaweb) | [<img src="https://github.com/MarisolenlaWeb/marisolenlaweb/blob/master/assets/instagram%20(1).png" alt="instagram logo">](https://www.instagram.com/ladevelopnerd/) | [<img src="https://github.com/MarisolenlaWeb/marisolenlaweb/blob/master/assets/github.png" alt="Github logo">](https://github.com/MarisolenlaWeb) | [<img src="https://github.com/MarisolenlaWeb/marisolenlaweb/blob/master/assets/likedin%20(1).png" alt="Linkedin Logo">](https://www.linkedin.com/in/marisolcarrillom)
+| [<img src="https://github.com/marcarrimor/marcarrimor/blob/master/assets/facebook%20(1).png" alt="Facebook logo">]( https://www.facebook.com/marisolenlaweb) | [<img src="https://github.com/marcarrimor/marcarrimor/blob/master/assets/instagram%20(1).png" alt="instagram logo">](https://www.instagram.com/ladevelopnerd/) | [<img src="https://github.com/marcarrimor/marcarrimor/blob/master/assets/github.png" alt="Github logo">](https://github.com/MarisolenlaWeb) | [<img src="https://github.com/marcarrimor/marcarrimor/blob/master/assets/likedin%20(1).png" alt="Linkedin Logo">](https://www.linkedin.com/in/marisolcarrillom)
 |:---:|:---:|:---:|:---:|
 -->
 
